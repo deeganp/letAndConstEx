@@ -1,0 +1,5 @@
+﻿1. Const pi= 3.14;
+2. You can redeclare and reassign with var but can not redeclare with let. You can access a hoisted variable with var. Let creates block scope.
+3. You can redeclare and reassign with var but can not redeclare with const. You can access a hoisted variable with var. Const creates block scope.
+4. You can reassign with let but can not reassign or redeclare with const.
+5. Hoisting is a way of describing how a Js compiler works by describing a visual movement for how the compiler treats declarations.
